@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\ImgApp-master\bin\Debug\ImgApp.exe.config
+C:\Users\student\Desktop\ImgApp-master\bin\Debug\ImgApp.exe
+C:\Users\student\Desktop\ImgApp-master\bin\Debug\ImgApp.pdb
+C:\Users\student\Desktop\ImgApp-master\obj\Debug\ImgApp.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\ImgApp-master\obj\Debug\ImgApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\ImgApp-master\obj\Debug\ImgApp.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\ImgApp-master\obj\Debug\ImgApp.exe
+C:\Users\student\Desktop\ImgApp-master\obj\Debug\ImgApp.pdb
+C:\Users\taiwa\Desktop\ImgApp-master\bin\Debug\ImgApp.exe.config
+C:\Users\taiwa\Desktop\ImgApp-master\bin\Debug\ImgApp.exe
+C:\Users\taiwa\Desktop\ImgApp-master\bin\Debug\ImgApp.pdb
+C:\Users\taiwa\Desktop\ImgApp-master\obj\Debug\ImgApp.csprojAssemblyReference.cache
+C:\Users\taiwa\Desktop\ImgApp-master\obj\Debug\ImgApp.csproj.CoreCompileInputs.cache
+C:\Users\taiwa\Desktop\ImgApp-master\obj\Debug\ImgApp.exe
+C:\Users\taiwa\Desktop\ImgApp-master\obj\Debug\ImgApp.pdb
